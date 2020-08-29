@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "43376494212",
+    "firebase_url": "https://pathiktestsih.firebaseio.com",
+    "project_id": "pathiktestsih",
+    "storage_bucket": "pathiktestsih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43376494212:android:4c9d59839b6d2ce77864d1",
+        "android_client_info": {
+          "package_name": "com.sih.pathik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43376494212-edshorqv1l4kfj10guk9kmbkjtmkfdii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSx0g1FGwvIFQj57aXB5Zuy639ZlJUHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43376494212-edshorqv1l4kfj10guk9kmbkjtmkfdii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
